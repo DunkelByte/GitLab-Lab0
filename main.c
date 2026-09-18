@@ -2,6 +2,6 @@
 
 int main()
 {
-    // @TODO: print a sentence you want.
+    printf("MY FIRST GITLAB\n");
     printf("Hello, world!\n");
 }
